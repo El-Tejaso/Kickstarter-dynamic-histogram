@@ -1,6 +1,6 @@
 #Kickstarter dynamic histogram visualisation
 
-This was a project that I worked on in 2018 for a first year university course.
+This was a project that I worked on in 2018 for a first year university course (UofA Grand Challenges in Computer Science).
 
 The full .csv file is available from here: https://www.kaggle.com/kemical/kickstarter-projects \
 I am unable to include it here due to my poor upload speeds, and perhaps some github filesize restrictions, but downloading it from there
