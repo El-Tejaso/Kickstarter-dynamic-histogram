@@ -1,4 +1,4 @@
-#Kickstarter dynamic histogram visualisation
+# Kickstarter dynamic histogram visualisation
 
 This was a project that I worked on in 2018 for a first year university course (UofA Grand Challenges in Computer Science).
 
