@@ -1,4 +1,4 @@
-//All code for the histogram is done by Tejas Hegde (a1743628). It is better off in a class tbh
+//All code for the histogram is done by Tejas Hegde. It is better off in a class tbh
 //This code is in many cases sub-optimal, and should not be used as a reference
 //It is however, original
 
